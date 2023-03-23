@@ -4,6 +4,16 @@
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; 
 }
 
+header {
+    /* position: fixed; 
+    top: 0;
+    left: 0; */
+    width: 100%;
+
+    background-color: rgb(72, 179, 143);
+    color: white;
+}
+
 img {
     display: block;
     height: 100px;
@@ -13,13 +23,6 @@ img {
 
 body {
     background-color: rgb(208, 255, 239);
-    color: white;
-}
-
-
-header {
-    
-    background-color: rgb(72, 179, 143);
     color: white;
 }
 
